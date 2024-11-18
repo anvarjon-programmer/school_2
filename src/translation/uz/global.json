@@ -1,0 +1,53 @@
+{
+    "header":{
+        "message":"MIRZO ULUG`BEK TUMANI 2 SONLI BOLALAR MUSIQA VA SAN'AT MAKTABI",
+        "home":"Bosh sahifa",
+        "employees":"Hodimlar",
+        "news":"Yangliklar",
+        "contact":"Aloqa",
+        "charter":"Ustav",
+        "galery":"Galerya"
+    },
+    "employees":{
+        "title":"Rahbariyat va xodimlar"
+    },
+    "news":{
+        "news":"Yangliklar"
+    },
+    "schoolNumber":{
+        "schoolNumber":"Маktab raqamlari"
+    },
+    "contact":{
+        "contact":"Маlumotlaringizni qoldring"
+    },
+    "contactDesc":{
+        "contactDesc":"ishchilarimiz sizlar bilan bog'lanishadi.",
+        "connection":"Bog'lanish",
+        "connectionDesc":"Аdminlarimiz siz bilan bog'lanishadi."
+    },
+    "form":{
+        "name":"Ism",
+        "surName":"Familiya",
+        "age":"Yoshingiz",
+        "phoneNumber":"Telefon raqamingiz"
+    },
+    "references":{
+        "references":"Havolalar",
+        "main":"Asosiy",
+        "aaboutUs":"Biz haqimizda",
+        "connection":"Bog'lanish",
+        "enter":"Krish"
+    },
+    "location":{
+        "location":"Manzil: Toshkent shahar Uchtepa tumani Taqachi mahallasi Ko'kcha darvoza ko'chasi 627 uy."
+    },
+    "galery":{
+        "name0":"Maktab galereyasi",
+        "name1":"Maktab binosining ko‘rinishi",
+        "name2":"Maktab xoreografiya xonasi",
+        "name3":"Maktab foyesi",
+        "name4":"Maktab foyesi",
+        "name5":"Kompyuter grafika xonasi"
+    }
+
+}

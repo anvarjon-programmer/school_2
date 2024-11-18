@@ -47,7 +47,7 @@ const Navbar = ({ main, about, service, contact }) => {
                   </a>
                   <div className="flex items-center gap-6">
                     <Link
-                      to="https://t.me/+pog-U-z4DX84MGVi"
+                      to="https://t.me/Anvar_1819"
                       className="hidden md:block"
                     >
                       <FaTelegram size={30} />
@@ -58,14 +58,14 @@ const Navbar = ({ main, about, service, contact }) => {
                         className="hidden lg:block max-w-full text-[#5f5f5f] font-bold"
                       >
                         <i class="fa-solid fa-phone mt-[5px] mr-1.5"></i> +998
-                        71 247-26-75
+                        958035735
                       </a>
                       <a
                         href="tel:998974315599"
                         className="hidden lg:block max-w-full text-[#5f5f5f] font-bold"
                       >
                         <i class="fa-solid fa-phone mt-[5px] mr-1.5"></i> +998
-                        97 431-55-99
+                        958035735
                       </a>
                     </div>
                   </div>

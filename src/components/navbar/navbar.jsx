@@ -47,7 +47,7 @@ const Navbar = ({ main, about, service, contact }) => {
                   </a>
                   <div className="flex items-center gap-6">
                     <Link
-                      to="https://t.me/Anvar_1819"
+                      to="https://t.me/TASHMIRZO2BMSM"
                       className="hidden md:block"
                     >
                       <FaTelegram size={30} />
@@ -142,9 +142,9 @@ const Navbar = ({ main, about, service, contact }) => {
                       </p>
                     </Link>
 
-                    <Link to="/ustavi">
+                    {/* <Link to="/ustavi">
                       <p
-                        // contact.current.scrollIntoView()
+                       
                         className={`${
                           false
                             ? "text-[#2c2c2c] font-[500] "
@@ -157,7 +157,7 @@ const Navbar = ({ main, about, service, contact }) => {
                       >
                         {t("header.charter")}
                       </p>
-                    </Link>
+                    </Link> */}
 
                     <Link to="/galery">
                       <p
